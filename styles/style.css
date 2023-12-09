@@ -124,7 +124,6 @@ html {
   justify-content: end;
   gap: 78px;
   align-items: center;
-  /* padding-left: 84px; */
 
   font-size: 22px;
   line-height: 28px;
@@ -236,7 +235,6 @@ html {
 .about {
   display: grid;
   grid-template-columns: 430px 1fr;
-  /* grid-template-rows: 1fr 1fr; */
   gap: 25px;
 
   padding: 0 24px;
