@@ -99,13 +99,13 @@ html {
 
 .aligned-text {
   display: block;
-  margin-bottom: 20px;
 }
 
 .aligned-text_center {
   text-align: center;
   padding-left: 60px;
   line-height: 1;
+  margin: 20px 0;
 }
 
 .aligned-text_right {
